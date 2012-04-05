@@ -4,7 +4,7 @@
 <!--
   * locale.xml
   *
-  * Copyright (c) 2012 MMKLab1
+  * Copyright (c) 2012 MMKLab
   * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
   *
   * Localization strings for the sr_RS (Srpski latinica) locale.
@@ -38,12 +38,12 @@
 
 
 	<!--  peer review -->
-	<message key="submission.reviewForm">Review Form</message>
-	<message key="submission.reviewFormResponse">Review Form Response</message>
+	<message key="submission.reviewForm">Obrazac Recenzije</message>
+	<message key="submission.reviewFormResponse">Odgovor na Obrazac Recenzije</message>
 
 
-	<message key="reviewer.article.enterReviewForm">Kliknite na ikonicu da biste popunili obrazac za recenziju.</message>	
-	<message key="reviewer.article.reviewFormResponse.form.responseRequired">Please fill in required fields.</message>	
+	<message key="reviewer.article.enterReviewForm">Kliknite na ikonicu da popunite obrazac za recenziju.</message>	
+	<message key="reviewer.article.reviewFormResponse.form.responseRequired">Molimo vas da popunite obavezna polja.</message>	
 	
 	<!-- review forms end -->
 
@@ -55,12 +55,12 @@
 
 	<!-- Common Messages -->
 	<message key="common.openJournalSystems">Open Journal Systems</message>
-	<message key="common.confirmComplete">Are you sure you wish to mark this task as completed? You may not be able to make changes afterwards.</message>
-	<message key="common.payment">Payment</message>
-	<message key="common.payments">Payments</message>
-	<message key="common.pageHeader.altText">Page Header</message>
-	<message key="common.homePageHeader.altText">Homepage Header</message>
-	<message key="common.journalHomepageImage.altText">Journal Homepage Image</message>
+	<message key="common.confirmComplete">Da li ste sigurni da želite da označite ovaj zadatak kao završen? Možda nećete moći na načinite izmene kasnije.</message>
+	<message key="common.payment">Plaćanje</message>
+	<message key="common.payments">Plaćanja</message>
+	<message key="common.pageHeader.altText">Zaglavlje Stranice</message>
+	<message key="common.homePageHeader.altText">Zaglavlje Početne Stranice</message>
+	<message key="common.journalHomepageImage.altText">Slika Početne Stranice Časopisa</message>
 
 	<!-- Common Form Messages -->
 	
@@ -71,31 +71,31 @@
 	<!-- Common Error Messages -->
 		
 	<!-- Navigation -->
-	<message key="navigation.journalHelp">Journal Help</message>
-	<message key="navigation.archives">Archives</message>
-	<message key="navigation.current">Current</message>
-	<message key="navigation.otherJournals">Other Journals</message>
-	<message key="navigation.browseByIssue">By Issue</message>
-	<message key="navigation.browseByAuthor">By Author</message>
-	<message key="navigation.infoForAuthors">For Authors</message>
-	<message key="navigation.infoForLibrarians">For Librarians</message>
-	<message key="navigation.competingInterestGuidelines">Competing Interest Guidelines</message>
-	<message key="navigation.infoForAuthors.long">Information For Authors</message>
-	<message key="navigation.infoForLibrarians.long">Information For Librarians</message>
+	<message key="navigation.journalHelp">Časopis-Pomoć</message>
+	<message key="navigation.archives">Arhive</message>
+	<message key="navigation.current">Aktuelan</message>
+	<message key="navigation.otherJournals">Ostali Časopisi</message>
+	<message key="navigation.browseByIssue">Po Izdanju</message>
+	<message key="navigation.browseByAuthor">Po Autoru</message>
+	<message key="navigation.infoForAuthors">Za Autore</message>
+	<message key="navigation.infoForLibrarians">Za Bibliotekare</message>
+	<message key="navigation.competingInterestGuidelines">Smernice Sukoba Interesa</message>
+	<message key="navigation.infoForAuthors.long">Informacija Za Autore</message>
+	<message key="navigation.infoForLibrarians.long">Informacija Za Bibliotekare</message>
 	
 	<!-- Article Queues -->
-	<message key="common.queue.long.submissionsUnassigned">Unassigned</message>
-	<message key="common.queue.short.submissionsUnassigned">Unassigned</message>
-	<message key="common.queue.long.submissionsInEditing">Submissions in Editing</message>
-	<message key="common.queue.short.submissionsInEditing">In Editing</message>
-	<message key="common.queue.long.submissionsInReview">Submissions in Review</message>
-	<message key="common.queue.short.submissionsInReview">In Review</message>
-	<message key="common.queue.long.submissionsArchives">Archives</message>
-	<message key="common.queue.short.submissionsArchives">Archives</message>
-	<message key="common.queue.long.active">Active Submissions</message>
-	<message key="common.queue.short.active">Active</message>
-	<message key="common.queue.long.completed">Archive</message>
-	<message key="common.queue.short.completed">Archive</message>
+	<message key="common.queue.long.submissionsUnassigned">Nedodeljen</message>
+	<message key="common.queue.short.submissionsUnassigned">Nedodeljen</message>
+	<message key="common.queue.long.submissionsInEditing">Prijave Radova u Procesu Objave</message>
+	<message key="common.queue.short.submissionsInEditing">U Procesu Objave</message>
+	<message key="common.queue.long.submissionsInReview">Prijave Radova u Recenziji</message>
+	<message key="common.queue.short.submissionsInReview">U Recenziji</message>
+	<message key="common.queue.long.submissionsArchives">Arhivirane Prijave Radova</message>
+	<message key="common.queue.short.submissionsArchives">Arhivirane</message>
+	<message key="common.queue.long.active">Aktivne Prijave Radova</message>
+	<message key="common.queue.short.active">Aktivne</message>
+	<message key="common.queue.long.completed">Arhiva</message>
+	<message key="common.queue.short.completed">Arhiva</message>
 	
 	<!--
 	 *
@@ -105,113 +105,113 @@
 	-->
 
 	<!-- Common Section Terms -->
-	<message key="section.section">Section</message>
-	<message key="section.sections">Journal Sections</message>
-	<message key="section.title">Section title</message>
-	<message key="section.abbreviation">Abbreviation</message>
-	<message key="section.abbreviation.example">(For example, Articles=ART)</message>
+	<message key="section.section">Rubrika</message>
+	<message key="section.sections">Rubrike Časopisa</message>
+	<message key="section.title">Naslov Rubrike</message>
+	<message key="section.abbreviation">Skraćenica</message>
+	<message key="section.abbreviation.example">(Na primer, Articles=ART)</message>
 
 	<!-- Common Article Terms -->
-	<message key="article.article">Article</message>
-	<message key="article.articles">Articles</message>
-	<message key="article.submissionId">Submission ID</message>
-	<message key="article.title">Title</message>
-	<message key="article.authors">Authors</message>
-	<message key="article.indexingInformation">Indexing Information</message>
-	<message key="article.metadata">Metadata</message>
-	<message key="article.journalSection">Journal Section</message>
-	<message key="article.file">File</message>
-	<message key="article.suppFile">Supplementary File</message>
-	<message key="article.suppFiles">Supplementary File(s)</message>
-	<message key="article.suppFilesAbbrev">Supp. files</message>
-	<message key="article.discipline">Academic discipline and sub-disciplines</message>
-	<message key="article.subjectClassification">Subject classification</message>
-	<message key="article.subject">Keywords</message>
-	<message key="article.coverage">Coverage</message>
-	<message key="article.coverageGeo">Geo-spatial coverage</message>
-	<message key="article.coverageChron">Chronological or historical coverage</message>
-	<message key="article.coverageSample"> Research sample characteristics</message>
-	<message key="article.type">Type, method or approach</message>
-	<message key="article.language">Language</message>
-	<message key="article.sectionEditor">SE</message>
-	<message key="article.commentsToEditor">Author comments</message>
-	<message key="article.submission">Submission</message>
-	<message key="article.submissions">Submissions</message>
-	<message key="article.details">Details</message>
-	<message key="article.abstract">Abstract</message>
-	<message key="article.coverPage.altText">Cover Image</message>
-	<message key="article.accessLogoOpen.altText">Open Access</message>
-	<message key="article.accessLogoRestricted.altText">Restricted Access</message>
-	<message key="article.comments.sectionDefault">Default</message>
-	<message key="article.comments.disable">Disable</message>
-	<message key="article.comments.enable">Enable</message>
-	<message key="article.fontSize">Font Size</message>
-	<message key="article.fontSize.small.altText">Small</message>
-	<message key="article.fontSize.medium.altText">Medium</message>
-	<message key="article.fontSize.large.altText">Large</message>
+	<message key="article.article">Članak</message>
+	<message key="article.articles">Članci</message>
+	<message key="article.submissionId">ID Prijave Rada</message>
+	<message key="article.title">Naslov</message>
+	<message key="article.authors">Autori</message>
+	<message key="article.indexingInformation">Informacije o Indeksiranju</message>
+	<message key="article.metadata">Metapodaci</message>
+	<message key="article.journalSection">Rubrika Časopisa</message>
+	<message key="article.file">Datoteka</message>
+	<message key="article.suppFile">Prilog Radu</message>
+	<message key="article.suppFiles">Prilozi Radu</message>
+	<message key="article.suppFilesAbbrev">Pril. radu</message>
+	<message key="article.discipline">Akademska Disciplina i Poddiscipline</message>
+	<message key="article.subjectClassification">Klasifikacija subjekta</message>
+	<message key="article.subject">Ključne Reči</message>
+	<message key="article.coverage">Pokrivenost</message>
+	<message key="article.coverageGeo">Geoprostorna Pokrivenost</message>
+	<message key="article.coverageChron">Hronološka ili Istorijska Pokrivenost</message>
+	<message key="article.coverageSample">Karakteristike Istraživačkog Uzorka</message>
+	<message key="article.type">Tip, Metod ili Pristup</message>
+	<message key="article.language">Jezik</message>
+	<message key="article.sectionEditor">UR</message>
+	<message key="article.commentsToEditor">Komentari Autora</message>
+	<message key="article.submission">Prijava Rada</message>
+	<message key="article.submissions">Prijave Radova</message>
+	<message key="article.details">Detalji</message>
+	<message key="article.abstract">Apstrakt</message>
+	<message key="article.coverPage.altText">Slika Naslovne Strane</message>
+	<message key="article.accessLogoOpen.altText">Otvoreni Pristup</message>
+	<message key="article.accessLogoRestricted.altText">Ograničeni Pristup</message>
+	<message key="article.comments.sectionDefault">Predefinisano</message>
+	<message key="article.comments.disable">Onemogućeno</message>
+	<message key="article.comments.enable">Omogućeno</message>
+	<message key="article.fontSize">Veličina Font-a</message>
+	<message key="article.fontSize.small.altText">Mali</message>
+	<message key="article.fontSize.medium.altText">Srednji</message>
+	<message key="article.fontSize.large.altText">Veliki</message>
 
 	<!-- Submission Tracking - Common -->
-	<message key="submission.submissionEditing">Submission Editing</message>
-	<message key="submission.changeSection">Change to</message>
-	<message key="submission.sent">Sent</message>
-	<message key="submission.editorDecision">Editor Decision</message>
-	<message key="submission.round">Round&amp;nbsp;{$round}</message>
-	<message key="submission.editorReview">Editor Review</message>
-	<message key="submission.notifyAuthor">Notify Author</message>
-	<message key="submission.notifyEditor">Notify Editor</message>
-	<message key="submission.editorAuthorRecord">Editor/Author Email Record</message>
-	<message key="submission.reviewersVersion">Reviewer's annotated version of file</message>
-	<message key="submission.postReviewVersion">Post-review version of file</message>
-	<message key="submission.editorVersion">Editor Version</message>
-	<message key="submission.authorsRevisedVersion">Author's revised version of file</message>
-	<message key="submission.authorVersion">Author Version</message>
-	<message key="submission.copyediting">Copyediting</message>
-	<message key="submission.copyedit">Copyedit</message>
-	<message key="submission.proofreading">Proofreading</message>
-	<message key="submission.scheduling">Scheduling</message>
-	<message key="submission.scheduledIn">Scheduled for publication in {$issueName}.</message>
-	<message key="submission.scheduledIn.tba">(TBA)</message>	
-	<message key="submissions.sec">Sec</message>
-	<message key="submissions.step1">Step 1</message>
-	<message key="submissions.step3">Step 3</message>
-	<message key="submissions.queuedReview">In Review</message>
-	<message key="submissions.scheduled">Scheduled</message>
-	<message key="submissions.published">Published</message>
-	<message key="submissions.initial">Initial</message>
-	<message key="submissions.proofread">Proofread</message>
-	<message key="submissions.initialProof">Initial Proof</message>
-	<message key="submissions.postAuthor">Post-Author</message>
-	<message key="submissions.reviewRound">Review Round</message>
-	<message key="submissions.proof">Proof</message>
-	<message key="submissions.editorDecision">Editor Decision</message>
-	<message key="submissions.editorRuling">Editor Ruling</message>
-	<message key="submission.eventLog">Event Log</message>
+	<message key="submission.submissionEditing">Proces Objave Prijave Rada</message>
+	<message key="submission.changeSection">Promeni na</message>
+	<message key="submission.sent">Poslato</message>
+	<message key="submission.editorDecision">Odluka Urednika</message>
+	<message key="submission.round">Krug&amp;nbsp;{$round}</message>
+	<message key="submission.editorReview">Recenzija Urednika</message>
+	<message key="submission.notifyAuthor">Obavesti Autora</message>
+	<message key="submission.notifyEditor">Obavesti Urednika</message>
+	<message key="submission.editorAuthorRecord">E-mail Zapis Urednika/Autora</message>
+	<message key="submission.reviewersVersion">Označena Verzija Datoteke Recenzenta</message>
+	<message key="submission.postReviewVersion">Verzija Datoteke Nakon Revizije</message>
+	<message key="submission.editorVersion">Verzija Urednika</message>
+	<message key="submission.authorsRevisedVersion">Recenzirana Verzija Datoteke Autora</message>
+	<message key="submission.authorVersion">Verzija Autora</message>
+	<message key="submission.copyediting">Proces Pripreme za Štampu</message>
+	<message key="submission.copyedit">Priprema za Štampu</message>
+	<message key="submission.proofreading">Proces Gramatičke Korekture</message>
+	<message key="submission.scheduling">Zakazivanje</message>
+	<message key="submission.scheduledIn">Zakazan za Objavljivanje u {$issueName}.</message>
+	<message key="submission.scheduledIn.tba">(Biće Zakazan)</message>	
+	<message key="submissions.sec">Rub</message>
+	<message key="submissions.step1">Korak 1</message>
+	<message key="submissions.step3">Korak 3</message>
+	<message key="submissions.queuedReview">U Procesu Recenzije</message>
+	<message key="submissions.scheduled">Zakazan</message>
+	<message key="submissions.published">Objavljen</message>
+	<message key="submissions.initial">Initial</message> <!-- nijeUradjeno -->
+	<message key="submissions.proofread">Gramatički Ispravljen</message>
+	<message key="submissions.initialProof">Initial Proof</message> <!-- nijeUradjeno -->
+	<message key="submissions.postAuthor">Post-Author</message> <!-- nijeUradjeno -->
+	<message key="submissions.reviewRound">Krug Recenzije</message>
+	<message key="submissions.proof">Korektura</message>
+	<message key="submissions.editorDecision">Odluka Urednika</message>
+	<message key="submissions.editorRuling">Editor Ruling</message> <!-- nijeUradjeno -->
+	<message key="submission.eventLog">Dnevnik Događaja</message>
 
 	<!-- Submission list search engine -->
-	<message key="submissions.copyeditComplete">Copyedited</message>
-	<message key="submissions.layoutComplete">Layout edited</message>
-	<message key="submissions.proofreadingComplete">Proofread</message>
+	<message key="submissions.copyeditComplete">Završena Priprema za Štampu</message>
+	<message key="submissions.layoutComplete">Izvršen prelom</message>
+	<message key="submissions.proofreadingComplete">Završena Gramatička Korektura</message>
 
 	<!-- Submission Notes -->
 	
 	<!-- Common Journal Terms -->
-	<message key="journal.currentIssue">Current Issue</message>
-	<message key="journal.journals">Journals</message>
-	<message key="journal.path">Path</message>
-	<message key="journal.journal">Journal</message>
+	<message key="journal.currentIssue">Aktuelno IzdanjeCurrent Issue</message>
+	<message key="journal.journals">Časopisi</message>
+	<message key="journal.path">Putanja</message>
+	<message key="journal.journal">Časopis</message>
 	<message key="journal.issn">ISSN</message>
 
 	<!-- User -->
-	<message key="user.showAllJournals">Show My Journals</message>
-	<message key="user.registerForOtherJournals">Register for Other Journals</message>
-	<message key="user.myJournals">My Journals</message>
-	<message key="user.manageMySubscriptions">Manage My Subscriptions</message>
-	<message key="user.noRoles.chooseJournal">Your account is not currently associated with any journals. Please choose a journal:</message>
-	<message key="user.noRoles.noRolesForJournal">Your account does not currently have any roles for this journal. Please choose from the actions below:</message>
-	<message key="user.noRoles.submitArticle">Submit a Proposal</message>
-	<message key="user.noRoles.submitArticleRegClosed">Submit an Article: Author registration is currently disabled.</message>
-	<message key="user.noRoles.regReviewer">Register as a Reviewer</message>
-	<message key="user.noRoles.regReviewerClosed">Register as a Reviewer: Reviewer registration is currently disabled.</message>
+	<message key="user.showAllJournals">Prikaži Moje Časopise</message>
+	<message key="user.registerForOtherJournals">Registruj se na Ostale Časopise</message>
+	<message key="user.myJournals">Moji Časopisi</message>
+	<message key="user.manageMySubscriptions">Upravljaj Mojim Pretplatama</message>
+	<message key="user.noRoles.chooseJournal">Vaš nalog trenutno nije povezan ni sa jednim časopisom. Molim izaberite časopis:</message>
+	<message key="user.noRoles.noRolesForJournal">Vaš nalog trenutno nema ni jednu ulogu za ovaj časopis. Molim izaberite akciju:</message>
+	<message key="user.noRoles.submitArticle">Prijavi Predlog</message>
+	<message key="user.noRoles.submitArticleRegClosed">Prijavi Članak: Registracija autora je trenutno onemogućena.</message>
+	<message key="user.noRoles.regReviewer">Registruj se kao Recenzent</message>
+	<message key="user.noRoles.regReviewerClosed">Registruj se kao Recenzent: Registracija recenzenata je trenutno onemogućena.</message>
 
 	<!-- Roles -->
 	<message key="user.role.manager">Journal Manager</message>
@@ -440,7 +440,7 @@ Authors who publish with this journal agree to the following terms:
 </ol>]]></message>
 	<message key="manager.setup.subjectClassificationDescription"><![CDATA[[Journal will use a subject classification system available on the web.<br />
 Title of classification system]]></message>
-	<message key="manager.setup.registerJournalForIndexingDescription"><![CDATA[To have the contents of this journal indexed within a globally distributed system of research databases, please read <a href="http://www.oaister.org/dataproviders.html" target="_blank">the steps to becoming a data contributor</a> and register your journal with the official <a href="http://www.openarchives.org/data/registerasprovider.html" target="_blank">Open Archives registry</a>.  To register, you will need the base URL for your repository: <span class="highlight">{$oaiUrl}</span>.  Afterwards, you can register your journal at the <a href="http://gita.grainger.uiuc.edu/registry/" target="_blank">UIUC OAI registry</a> and <a href="http://www.oaister.org/" target="_blank">OAIster</a>.
+	<message key="manager.setup.registerJournalForIndexingDescription"><![CDATA[To have the contents of this journal indexed within a globally distributed system of research databases, please read <a href="http://www.oaister.org/dataproviders.html" target="_blank">the steps to becoming a data contributor</a> and register your journal with the official <a href="http://www.openarchives.org/data/registerasprovider.html" target="_blank">Open Archives registry</a>.  To register, you will need the base URL for your repository: <span class="highlight">{$oaiUrl}</span>.  Afterwards, you can register your journal at the <a href="http://gita.grainger.uiuc.edu/registry/" target="_blank">UIUC OAI registry</a> and <a href="http://www.oaister.org/" target="_blank">OAIster</a>.
 <br /><br />
 Note that if your site administrator has already registered this site with these services, your journal will be indexed automatically and you do not need to register your journal.]]></message>
 	<message key="manager.setup.citations">Enable the Citation Markup Assistant</message>
